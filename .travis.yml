@@ -3,9 +3,7 @@ cache: yarn
 notifications:
   email: false
 node_js:
-  - '7'
-  - '6'
-  - '4'
+  - stable
 before_script:
   - npm prune
 after_success:

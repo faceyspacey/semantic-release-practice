@@ -1,1 +1,3 @@
-export const foo = () => 69 
+export const foo = () => {
+  console.log(1234)
+}

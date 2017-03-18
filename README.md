@@ -5,3 +5,4 @@ foobar
 bla bla
 KITTY
 phone
+dist-tag

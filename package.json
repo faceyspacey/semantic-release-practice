@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-practice",
-  "version": "5.0.0",
+  "version": "0.0.0-development",
   "description": "'Repo to practice using semantic-release, commitizen, conventional-changelog, etc'",
   "main": "dist/index.js",
   "files": [

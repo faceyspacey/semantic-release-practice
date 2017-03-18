@@ -57,5 +57,8 @@
   },
   "publishConfig": {
     "tag": "version-3"
+  },
+  "release": {
+    "branch": "version-3"
   }
 }
